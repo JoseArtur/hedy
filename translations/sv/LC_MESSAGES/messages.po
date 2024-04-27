@@ -114,10 +114,6 @@ msgstr "While running your program the command `{command}` received the value `{
 msgid "Runtime Values Error"
 msgstr "While running your program the command `{command}` received the values `{value}` and `{value}` which are not allowed. {tip}."
 
-#, fuzzy
-msgid "Save Microbit code "
-msgstr "Save Microbit code"
-
 msgid "Too Big"
 msgstr "Wow! Ditt program har {lines_of_code} rader kod vilket är imponerande! Men vi kan bara hantera {max_lines} kodrader på den här nivån. Korta ner ditt program och försök igen."
 
@@ -561,9 +557,6 @@ msgstr "Programmet har raderats."
 msgid "destroy_profile"
 msgstr "Ta bort profil"
 
-msgid "developers_mode"
-msgstr "Programmerarläge"
-
 msgid "directly_available"
 msgstr "Öppna direkt"
 
@@ -616,9 +609,6 @@ msgstr "Från och med nivå 2 behövs inte längre `{echo}`. Du kan nu istället
 #, fuzzy
 msgid "edit_adventure"
 msgstr "Edit adventure"
-
-msgid "edit_code_button"
-msgstr "Redigera kod"
 
 msgid "email"
 msgstr "Mejl"
@@ -1011,9 +1001,6 @@ msgstr "Logga in"
 msgid "login_long"
 msgstr "Logga in på ditt konto"
 
-msgid "login_to_save_your_work"
-msgstr "Logga in för att spara ditt arbete"
-
 msgid "logout"
 msgstr "Logga ut"
 
@@ -1157,9 +1144,6 @@ msgstr "Repeat new password"
 msgid "newline"
 msgstr "en ny rad"
 
-msgid "next_exercise"
-msgstr "Nästa övning"
-
 msgid "next_page"
 msgstr "Nästa sida"
 
@@ -1219,9 +1203,6 @@ msgstr "Verkar som att du inte är i den här klassen!"
 
 msgid "not_in_class_no_handin"
 msgstr "Du går inte en lektion, så du behöver inte lämna in något."
-
-msgid "not_logged_in_cantsave"
-msgstr "Ditt program kommer inte att sparas."
 
 msgid "not_logged_in_handin"
 msgstr "Du måste vara inloggad för att lämna in en uppgift."
@@ -1464,17 +1445,11 @@ msgstr "Quiz"
 msgid "quiz_threshold_not_reached"
 msgstr "För lågt resultat på quizet för att låsa upp den här nivån"
 
-msgid "read_code_label"
-msgstr "Läs högt"
-
 msgid "recent"
 msgstr "Mina senaste program"
 
 msgid "recover_password"
 msgstr "Begär återställning av lösenord"
-
-msgid "regress_button"
-msgstr "Gå tillbaka till nivå {level}"
 
 msgid "remove"
 msgstr "Ta bort"
@@ -1491,9 +1466,6 @@ msgstr "Är du säker på att du vill ta bort eleven från klassen?"
 #, fuzzy
 msgid "remove_user_prompt"
 msgstr "Confirm removing this user from the class."
-
-msgid "repair_program_logo_alt"
-msgstr "Ikon för programreparation"
 
 #, fuzzy
 msgid "repeat_dep"
@@ -1650,10 +1622,6 @@ msgstr "ett enkelt citattecken"
 
 msgid "slash"
 msgstr "ett snedstreck"
-
-#, fuzzy
-msgid "sleeping"
-msgstr "Sleeping..."
 
 #, fuzzy
 msgid "slides"
@@ -2043,9 +2011,6 @@ msgstr "Ett eller flera användarnamn finns redan."
 msgid "value"
 msgstr "Värde"
 
-msgid "variables"
-msgstr "Variabler"
-
 #, fuzzy
 msgid "view_adventures"
 msgstr "View adventures"
@@ -2277,4 +2242,37 @@ msgstr "Ditt program"
 
 #~ msgid "multiple_levels_warning"
 #~ msgstr "We've noticed you have both selected several levels and included code snippets in your adventure, this might cause issues with the syntax highlighter and the automatic translation of keywords"
+
+#~ msgid "Save Microbit code "
+#~ msgstr "Save Microbit code"
+
+#~ msgid "developers_mode"
+#~ msgstr "Programmerarläge"
+
+#~ msgid "edit_code_button"
+#~ msgstr "Redigera kod"
+
+#~ msgid "login_to_save_your_work"
+#~ msgstr "Logga in för att spara ditt arbete"
+
+#~ msgid "next_exercise"
+#~ msgstr "Nästa övning"
+
+#~ msgid "not_logged_in_cantsave"
+#~ msgstr "Ditt program kommer inte att sparas."
+
+#~ msgid "read_code_label"
+#~ msgstr "Läs högt"
+
+#~ msgid "regress_button"
+#~ msgstr "Gå tillbaka till nivå {level}"
+
+#~ msgid "repair_program_logo_alt"
+#~ msgstr "Ikon för programreparation"
+
+#~ msgid "sleeping"
+#~ msgstr "Sleeping..."
+
+#~ msgid "variables"
+#~ msgstr "Variabler"
 

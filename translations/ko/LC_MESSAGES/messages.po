@@ -134,10 +134,6 @@ msgid "Runtime Values Error"
 msgstr "While running your program the command `{command}` received the values `{value}` and `{value}` which are not allowed. {tip}."
 
 #, fuzzy
-msgid "Save Microbit code "
-msgstr "Save Microbit code"
-
-#, fuzzy
 msgid "Too Big"
 msgstr "와우! 당신의 프로그램은 인상적인 {lines_of_code}개의 코드 라인을 가지고 있습니다! 하지만 우리는 이 레벨에서 {max_lines}개의 라인만 처리할 수 있습니다. 당신의 프로그램을 더 작게 만들고 다시 시도해보세요."
 
@@ -689,10 +685,6 @@ msgid "destroy_profile"
 msgstr "프로필삭제"
 
 #, fuzzy
-msgid "developers_mode"
-msgstr "프로그래머 모드"
-
-#, fuzzy
 msgid "directly_available"
 msgstr "직접 열림"
 
@@ -755,10 +747,6 @@ msgstr "더 이상 레벨 2 `{echo}`에서 시작할 필요가 없습니다. 이
 #, fuzzy
 msgid "edit_adventure"
 msgstr "Edit adventure"
-
-#, fuzzy
-msgid "edit_code_button"
-msgstr "코드 편집"
 
 #, fuzzy
 msgid "email"
@@ -1249,10 +1237,6 @@ msgid "login_long"
 msgstr "계정에 로그인합니다"
 
 #, fuzzy
-msgid "login_to_save_your_work"
-msgstr "작업을 저장하려면 로그인하십시오"
-
-#, fuzzy
 msgid "logout"
 msgstr "로그아웃"
 
@@ -1429,10 +1413,6 @@ msgid "newline"
 msgstr "a new line"
 
 #, fuzzy
-msgid "next_exercise"
-msgstr "Next exercise"
-
-#, fuzzy
 msgid "next_page"
 msgstr "Next page"
 
@@ -1507,10 +1487,6 @@ msgstr "Looks like you are not in this class!"
 #, fuzzy
 msgid "not_in_class_no_handin"
 msgstr "You are not in a class, so there's no need for you to hand in anything."
-
-#, fuzzy
-msgid "not_logged_in_cantsave"
-msgstr "Your program will not be saved."
 
 #, fuzzy
 msgid "not_logged_in_handin"
@@ -1824,19 +1800,11 @@ msgid "quiz_threshold_not_reached"
 msgstr "Quiz threshold not reached to unlock this level"
 
 #, fuzzy
-msgid "read_code_label"
-msgstr "Read aloud"
-
-#, fuzzy
 msgid "recent"
 msgstr "My recent programs"
 
 msgid "recover_password"
 msgstr "비밀번호의 초기화를 요청합니다"
-
-#, fuzzy
-msgid "regress_button"
-msgstr "Go back to level {level}"
 
 #, fuzzy
 msgid "remove"
@@ -1857,10 +1825,6 @@ msgstr "Are you sure you want to remove the student from the class?"
 #, fuzzy
 msgid "remove_user_prompt"
 msgstr "Confirm removing this user from the class."
-
-#, fuzzy
-msgid "repair_program_logo_alt"
-msgstr "Repair program icon"
 
 #, fuzzy
 msgid "repeat_dep"
@@ -2052,10 +2016,6 @@ msgstr "인용구 하나"
 #, fuzzy
 msgid "slash"
 msgstr "slash"
-
-#, fuzzy
-msgid "sleeping"
-msgstr "Sleeping..."
 
 #, fuzzy
 msgid "slides"
@@ -2528,10 +2488,6 @@ msgid "value"
 msgstr "Value"
 
 #, fuzzy
-msgid "variables"
-msgstr "Variables"
-
-#, fuzzy
 msgid "view_adventures"
 msgstr "View adventures"
 
@@ -2666,4 +2622,37 @@ msgstr "Your program"
 
 #~ msgid "multiple_levels_warning"
 #~ msgstr "We've noticed you have both selected several levels and included code snippets in your adventure, this might cause issues with the syntax highlighter and the automatic translation of keywords"
+
+#~ msgid "Save Microbit code "
+#~ msgstr "Save Microbit code"
+
+#~ msgid "developers_mode"
+#~ msgstr "프로그래머 모드"
+
+#~ msgid "edit_code_button"
+#~ msgstr "코드 편집"
+
+#~ msgid "login_to_save_your_work"
+#~ msgstr "작업을 저장하려면 로그인하십시오"
+
+#~ msgid "next_exercise"
+#~ msgstr "Next exercise"
+
+#~ msgid "not_logged_in_cantsave"
+#~ msgstr "Your program will not be saved."
+
+#~ msgid "read_code_label"
+#~ msgstr "Read aloud"
+
+#~ msgid "regress_button"
+#~ msgstr "Go back to level {level}"
+
+#~ msgid "repair_program_logo_alt"
+#~ msgstr "Repair program icon"
+
+#~ msgid "sleeping"
+#~ msgstr "Sleeping..."
+
+#~ msgid "variables"
+#~ msgstr "Variables"
 

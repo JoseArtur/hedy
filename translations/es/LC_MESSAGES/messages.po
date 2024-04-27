@@ -108,9 +108,6 @@ msgstr "Mientras ejecutábamos tu programa, el comando `{command}` recibió el v
 msgid "Runtime Values Error"
 msgstr "While running your program the command `{command}` received the values `{value}` and `{value}` which are not allowed. {tip}."
 
-msgid "Save Microbit code "
-msgstr "Guardar código Microbit"
-
 msgid "Too Big"
 msgstr "¡Guau! ¡Tu programa tiene un impresionante número de {lines_of_code} líneas de código! Pero solo podemos procesar {max_lines} líneas en este nivel. Haz tu programa más pequeño e inténtalo de nuevo."
 
@@ -526,9 +523,6 @@ msgstr "Programa eliminado correctamente."
 msgid "destroy_profile"
 msgstr "Borrar mi cuenta permanentemente"
 
-msgid "developers_mode"
-msgstr "Modo desarollador"
-
 msgid "directly_available"
 msgstr "Directamente abierto"
 
@@ -577,9 +571,6 @@ msgstr "A partir del nivel 2, `{echo}` ya no es necesario. Ahora puedes repetir 
 
 msgid "edit_adventure"
 msgstr "Editar la aventura"
-
-msgid "edit_code_button"
-msgstr "Editar código"
 
 msgid "email"
 msgstr "Correo electrónico"
@@ -947,9 +938,6 @@ msgstr "Ingresar"
 msgid "login_long"
 msgstr "Ingresar a mi cuenta"
 
-msgid "login_to_save_your_work"
-msgstr "Inicia sesión para guardar tu progreso"
-
 msgid "logout"
 msgstr "Salir"
 
@@ -1090,9 +1078,6 @@ msgstr "Repite la nueva contraseña"
 msgid "newline"
 msgstr "un salto de línea"
 
-msgid "next_exercise"
-msgstr "Siguiente ejercicio"
-
 msgid "next_page"
 msgstr "Siguiente página"
 
@@ -1149,9 +1134,6 @@ msgstr "¡Parece que no perteneces a esta clase!"
 
 msgid "not_in_class_no_handin"
 msgstr "No estás en clase, así que no es necesario que entregues nada."
-
-msgid "not_logged_in_cantsave"
-msgstr "Tu programa no se guardará."
 
 msgid "not_logged_in_handin"
 msgstr "Debe iniciar sesión para entregar un trabajo."
@@ -1387,17 +1369,11 @@ msgstr "Cuestionario"
 msgid "quiz_threshold_not_reached"
 msgstr "No has alcanzado el umbral de cuestionario para desbloquear este nivel"
 
-msgid "read_code_label"
-msgstr "Leer en voz alta"
-
 msgid "recent"
 msgstr "Mis programas recientes"
 
 msgid "recover_password"
 msgstr "Restablecer contraseña"
-
-msgid "regress_button"
-msgstr "Regresar al nivel {level}"
 
 msgid "remove"
 msgstr "Eliminar"
@@ -1413,9 +1389,6 @@ msgstr "¿Estás seguro de que quieres eliminar al estudiante de la clase?"
 
 msgid "remove_user_prompt"
 msgstr "Confirmar la eliminación de este usuario de la clase."
-
-msgid "repair_program_logo_alt"
-msgstr "Icono de reparación de programa"
 
 msgid "repeat_dep"
 msgstr "Empezando en el nivel 8, `{repeat}` necesita ser usado con sangría. Puedes ver ejemplos en la pestaña `{repeat}` en el nivel 8."
@@ -1560,9 +1533,6 @@ msgstr "una comilla simple"
 
 msgid "slash"
 msgstr "una barra"
-
-msgid "sleeping"
-msgstr "Hibernando..."
 
 msgid "slides"
 msgstr "Diapositivas"
@@ -1920,9 +1890,6 @@ msgstr "Uno o más nombres de usuario ya están en uso."
 msgid "value"
 msgstr "Valor"
 
-msgid "variables"
-msgstr "Variables"
-
 msgid "view_adventures"
 msgstr "Ver aventuras"
 
@@ -2144,4 +2111,37 @@ msgstr "Tu programa"
 
 #~ msgid "multiple_levels_warning"
 #~ msgstr "Hemos observado que ha seleccionado varios niveles y ha incluido fragmentos de código en su aventura, lo que podría causar problemas con el resaltador de sintaxis y la traducción automática de palabras clave"
+
+#~ msgid "Save Microbit code "
+#~ msgstr "Guardar código Microbit"
+
+#~ msgid "developers_mode"
+#~ msgstr "Modo desarollador"
+
+#~ msgid "edit_code_button"
+#~ msgstr "Editar código"
+
+#~ msgid "login_to_save_your_work"
+#~ msgstr "Inicia sesión para guardar tu progreso"
+
+#~ msgid "next_exercise"
+#~ msgstr "Siguiente ejercicio"
+
+#~ msgid "not_logged_in_cantsave"
+#~ msgstr "Tu programa no se guardará."
+
+#~ msgid "read_code_label"
+#~ msgstr "Leer en voz alta"
+
+#~ msgid "regress_button"
+#~ msgstr "Regresar al nivel {level}"
+
+#~ msgid "repair_program_logo_alt"
+#~ msgstr "Icono de reparación de programa"
+
+#~ msgid "sleeping"
+#~ msgstr "Hibernando..."
+
+#~ msgid "variables"
+#~ msgstr "Variables"
 

@@ -108,9 +108,6 @@ msgstr "在运行程序时，命令`{command}`收到了不允许的值{value}。
 msgid "Runtime Values Error"
 msgstr "While running your program the command `{command}` received the values `{value}` and `{value}` which are not allowed. {tip}."
 
-msgid "Save Microbit code "
-msgstr "保存 Microbit 代码"
-
 msgid "Too Big"
 msgstr "哇！你的程序有足足{lines_of_code}行代码！但是这一关只能用{max_lines}行代码。把你的程序改得短一点，然后再试一次。"
 
@@ -526,9 +523,6 @@ msgstr "已成功删除程序。"
 msgid "destroy_profile"
 msgstr "删除个人资料"
 
-msgid "developers_mode"
-msgstr "程序员模式"
-
 msgid "directly_available"
 msgstr "直接打开"
 
@@ -577,9 +571,6 @@ msgstr "从第二级起，你不再需要`{echo}`。你可以用`{ask}`和`{prin
 
 msgid "edit_adventure"
 msgstr "编辑冒险"
-
-msgid "edit_code_button"
-msgstr "编辑代码"
 
 msgid "email"
 msgstr "电子邮件"
@@ -947,9 +938,6 @@ msgstr "登录"
 msgid "login_long"
 msgstr "登录到您的账户"
 
-msgid "login_to_save_your_work"
-msgstr "登录以保存你的工作"
-
 msgid "logout"
 msgstr "退出"
 
@@ -1090,9 +1078,6 @@ msgstr "重复新密码"
 msgid "newline"
 msgstr "另起一行"
 
-msgid "next_exercise"
-msgstr "下一个练习"
-
 msgid "next_page"
 msgstr "下一页"
 
@@ -1149,9 +1134,6 @@ msgstr "看来你不在这个班上！"
 
 msgid "not_in_class_no_handin"
 msgstr "你不在一个班级，所以不需要交任何东西。"
-
-msgid "not_logged_in_cantsave"
-msgstr "您的程序将不会被保存。"
 
 msgid "not_logged_in_handin"
 msgstr "必须登录才能提交作业。"
@@ -1387,17 +1369,11 @@ msgstr "测试"
 msgid "quiz_threshold_not_reached"
 msgstr "没有达到解锁该关卡所需的问答数量要求"
 
-msgid "read_code_label"
-msgstr "大声读出来"
-
 msgid "recent"
 msgstr "我最近的程序"
 
 msgid "recover_password"
 msgstr "要求重置密码"
-
-msgid "regress_button"
-msgstr "回到等级 {level}"
 
 msgid "remove"
 msgstr "移除"
@@ -1413,9 +1389,6 @@ msgstr "你确定要将这名学生移出班级吗？"
 
 msgid "remove_user_prompt"
 msgstr "确认从班级中删除该用户。"
-
-msgid "repair_program_logo_alt"
-msgstr "修复程序图标"
 
 msgid "repeat_dep"
 msgstr "从第 8 级开始，`{repeat}` 需要与缩进一起使用。 可以在第 8 级的 `{repeat}` 选项卡上查看示例。"
@@ -1560,9 +1533,6 @@ msgstr "单引号"
 
 msgid "slash"
 msgstr "斜杠"
-
-msgid "sleeping"
-msgstr "休眠..."
 
 msgid "slides"
 msgstr "幻灯"
@@ -1922,9 +1892,6 @@ msgstr "一个或多个用户名已在使用中。"
 msgid "value"
 msgstr "值"
 
-msgid "variables"
-msgstr "变量"
-
 msgid "view_adventures"
 msgstr "查阅探险"
 
@@ -2152,4 +2119,37 @@ msgstr "你的程序"
 
 #~ msgid "multiple_levels_warning"
 #~ msgstr "我们注意到您在冒险中选择了多个级别并包含代码片段，这可能会导致语法突出显示和关键字自动翻译出现问题"
+
+#~ msgid "Save Microbit code "
+#~ msgstr "保存 Microbit 代码"
+
+#~ msgid "developers_mode"
+#~ msgstr "程序员模式"
+
+#~ msgid "edit_code_button"
+#~ msgstr "编辑代码"
+
+#~ msgid "login_to_save_your_work"
+#~ msgstr "登录以保存你的工作"
+
+#~ msgid "next_exercise"
+#~ msgstr "下一个练习"
+
+#~ msgid "not_logged_in_cantsave"
+#~ msgstr "您的程序将不会被保存。"
+
+#~ msgid "read_code_label"
+#~ msgstr "大声读出来"
+
+#~ msgid "regress_button"
+#~ msgstr "回到等级 {level}"
+
+#~ msgid "repair_program_logo_alt"
+#~ msgstr "修复程序图标"
+
+#~ msgid "sleeping"
+#~ msgstr "休眠..."
+
+#~ msgid "variables"
+#~ msgstr "变量"
 

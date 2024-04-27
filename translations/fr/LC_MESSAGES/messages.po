@@ -115,10 +115,6 @@ msgstr "While running your program the command `{command}` received the value `{
 msgid "Runtime Values Error"
 msgstr "While running your program the command `{command}` received the values `{value}` and `{value}` which are not allowed. {tip}."
 
-#, fuzzy
-msgid "Save Microbit code "
-msgstr "Save Microbit code"
-
 msgid "Too Big"
 msgstr "Waouh ! Ton programme a un nombre impressionnant de lignes de code : {lines_of_code} lignes ! Mais Hedy ne peut traiter que {max_lines} lignes à ce niveau. Rends ton programme plus court et ressaie."
 
@@ -570,9 +566,6 @@ msgstr "Programme effacé avec succès."
 msgid "destroy_profile"
 msgstr "Supprimer le profil"
 
-msgid "developers_mode"
-msgstr "Mode développeur"
-
 msgid "directly_available"
 msgstr "Ouvrir immédiatement"
 
@@ -625,9 +618,6 @@ msgstr "À partir du niveau 2 `{echo}` n'est plus nécessaire. Tu peux répéter
 #, fuzzy
 msgid "edit_adventure"
 msgstr "Edit adventure"
-
-msgid "edit_code_button"
-msgstr "Modifier le code"
 
 msgid "email"
 msgstr "E-mail"
@@ -1022,9 +1012,6 @@ msgstr "Se connecter"
 msgid "login_long"
 msgstr "Connectez-vous à votre compte"
 
-msgid "login_to_save_your_work"
-msgstr "Se connecter pour sauvegarder son travail"
-
 msgid "logout"
 msgstr "Se déconnecter"
 
@@ -1168,9 +1155,6 @@ msgstr "Repeat new password"
 msgid "newline"
 msgstr "une nouvelle ligne"
 
-msgid "next_exercise"
-msgstr "Exercice suivant"
-
 msgid "next_page"
 msgstr "Page suivante"
 
@@ -1230,9 +1214,6 @@ msgstr "On dirait que vous n’êtes pas dans cette classe !"
 
 msgid "not_in_class_no_handin"
 msgstr "Tu n'es pas dans une classe, pas besoin de rendre quoi que ce soit."
-
-msgid "not_logged_in_cantsave"
-msgstr "Ton programme ne sera pas sauvegardé."
 
 msgid "not_logged_in_handin"
 msgstr "Un compte est nécessaire pour rendre un devoir."
@@ -1475,17 +1456,11 @@ msgstr "Questionnaire"
 msgid "quiz_threshold_not_reached"
 msgstr "Seuil de quiz pour débloquer ce niveau n'est pas atteint"
 
-msgid "read_code_label"
-msgstr "Lire à voix haute"
-
 msgid "recent"
 msgstr "Mes programmes récents"
 
 msgid "recover_password"
 msgstr "Demander une réinitialisation de mot de passe"
-
-msgid "regress_button"
-msgstr "Retourner au niveau {level}"
 
 msgid "remove"
 msgstr "Retirer"
@@ -1502,9 +1477,6 @@ msgstr "Es-tu sur de vouloir supprimer l'élève de la classe ?"
 #, fuzzy
 msgid "remove_user_prompt"
 msgstr "Confirm removing this user from the class."
-
-msgid "repair_program_logo_alt"
-msgstr "Corriger l'icône du programmer"
 
 msgid "repeat_dep"
 msgstr "À partir du niveau 8, `{repeat}` doit être utilisée avec de l'indentation. Des exemples sont montrés à l'onglet `{repeat}` du niveau 8."
@@ -1660,10 +1632,6 @@ msgstr "une apostrophe"
 
 msgid "slash"
 msgstr "une barre oblique"
-
-#, fuzzy
-msgid "sleeping"
-msgstr "Sleeping..."
 
 #, fuzzy
 msgid "slides"
@@ -2053,9 +2021,6 @@ msgstr "Un ou plusieurs pseudos déjà utilisés."
 msgid "value"
 msgstr "Valeur"
 
-msgid "variables"
-msgstr "Variables"
-
 #, fuzzy
 msgid "view_adventures"
 msgstr "View adventures"
@@ -2287,4 +2252,37 @@ msgstr "Ton programme"
 
 #~ msgid "multiple_levels_warning"
 #~ msgstr "We've noticed you have both selected several levels and included code snippets in your adventure, this might cause issues with the syntax highlighter and the automatic translation of keywords"
+
+#~ msgid "Save Microbit code "
+#~ msgstr "Save Microbit code"
+
+#~ msgid "developers_mode"
+#~ msgstr "Mode développeur"
+
+#~ msgid "edit_code_button"
+#~ msgstr "Modifier le code"
+
+#~ msgid "login_to_save_your_work"
+#~ msgstr "Se connecter pour sauvegarder son travail"
+
+#~ msgid "next_exercise"
+#~ msgstr "Exercice suivant"
+
+#~ msgid "not_logged_in_cantsave"
+#~ msgstr "Ton programme ne sera pas sauvegardé."
+
+#~ msgid "read_code_label"
+#~ msgstr "Lire à voix haute"
+
+#~ msgid "regress_button"
+#~ msgstr "Retourner au niveau {level}"
+
+#~ msgid "repair_program_logo_alt"
+#~ msgstr "Corriger l'icône du programmer"
+
+#~ msgid "sleeping"
+#~ msgstr "Sleeping..."
+
+#~ msgid "variables"
+#~ msgstr "Variables"
 

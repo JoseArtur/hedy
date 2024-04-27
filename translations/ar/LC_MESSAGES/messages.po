@@ -121,10 +121,6 @@ msgstr "While running your program the command `{command}` received the value `{
 msgid "Runtime Values Error"
 msgstr "While running your program the command `{command}` received the values `{value}` and `{value}` which are not allowed. {tip}."
 
-#, fuzzy
-msgid "Save Microbit code "
-msgstr "Save Microbit code"
-
 msgid "Too Big"
 msgstr "واو! برنامجك يحتوي على {lines_of_code} سطر برمجي! لكننا نستطيع معالجة {max_lines} سطر برمجي كحد أقصى في هذا المستوى. اجعل برنامجك أصغر وحاول مرة أخرى."
 
@@ -599,9 +595,6 @@ msgstr "تم حذف البرنامج بنجاح."
 msgid "destroy_profile"
 msgstr "حذف الملف الشخصي"
 
-msgid "developers_mode"
-msgstr "وضع المبرمج"
-
 msgid "directly_available"
 msgstr "افتتح مباشرة"
 
@@ -659,9 +652,6 @@ msgstr "لم نعد بحاجة الى الأمر ردد ابتداء من الم
 
 msgid "edit_adventure"
 msgstr "عدّل المغامرة"
-
-msgid "edit_code_button"
-msgstr "تعديل البرنامج"
 
 msgid "email"
 msgstr "البريد الإلكتروني"
@@ -1087,10 +1077,6 @@ msgstr "تسجيل الدخول"
 msgid "login_long"
 msgstr "الدخول الى حسابك"
 
-#, fuzzy
-msgid "login_to_save_your_work"
-msgstr "Log in to save your work"
-
 msgid "logout"
 msgstr "تسجيل الخروج"
 
@@ -1233,10 +1219,6 @@ msgid "newline"
 msgstr "سطر جديد"
 
 #, fuzzy
-msgid "next_exercise"
-msgstr "Next exercise"
-
-#, fuzzy
 msgid "next_page"
 msgstr "Next page"
 
@@ -1298,10 +1280,6 @@ msgstr "يبدو أنك لست في هذا الصف!"
 #, fuzzy
 msgid "not_in_class_no_handin"
 msgstr "You are not in a class, so there's no need for you to hand in anything."
-
-#, fuzzy
-msgid "not_logged_in_cantsave"
-msgstr "Your program will not be saved."
 
 #, fuzzy
 msgid "not_logged_in_handin"
@@ -1558,17 +1536,11 @@ msgstr "انهاء الفحص السريع"
 msgid "quiz_threshold_not_reached"
 msgstr "Quiz threshold not reached to unlock this level"
 
-msgid "read_code_label"
-msgstr "القراءة بصوت عال"
-
 msgid "recent"
 msgstr "برامجي الأخيرة"
 
 msgid "recover_password"
 msgstr "طلب إعادة ضبط كلمة المرور"
-
-msgid "regress_button"
-msgstr "الرجوع الى المستوى {level}"
 
 msgid "remove"
 msgstr "ازالة"
@@ -1584,10 +1556,6 @@ msgstr "هل أنت متأكد أنك تريد ازالة التلميذ من ا
 
 msgid "remove_user_prompt"
 msgstr "هل تأكد حذف هذا المستخدم؟"
-
-#, fuzzy
-msgid "repair_program_logo_alt"
-msgstr "Repair program icon"
 
 #, fuzzy
 msgid "repeat_dep"
@@ -1747,10 +1715,6 @@ msgstr "علامة اقتباس أحادية"
 
 msgid "slash"
 msgstr "علامة الخط المائل ناحية اليمين"
-
-#, fuzzy
-msgid "sleeping"
-msgstr "Sleeping..."
 
 #, fuzzy
 msgid "slides"
@@ -2158,9 +2122,6 @@ msgstr "اسم مستخدم واحد أو أكثر قيد الاستخدام ب�
 msgid "value"
 msgstr "Value"
 
-msgid "variables"
-msgstr "المتغيرات"
-
 #, fuzzy
 msgid "view_adventures"
 msgstr "View adventures"
@@ -2392,4 +2353,37 @@ msgstr "Your program"
 
 #~ msgid "multiple_levels_warning"
 #~ msgstr "We've noticed you have both selected several levels and included code snippets in your adventure, this might cause issues with the syntax highlighter and the automatic translation of keywords"
+
+#~ msgid "Save Microbit code "
+#~ msgstr "Save Microbit code"
+
+#~ msgid "developers_mode"
+#~ msgstr "وضع المبرمج"
+
+#~ msgid "edit_code_button"
+#~ msgstr "تعديل البرنامج"
+
+#~ msgid "login_to_save_your_work"
+#~ msgstr "Log in to save your work"
+
+#~ msgid "next_exercise"
+#~ msgstr "Next exercise"
+
+#~ msgid "not_logged_in_cantsave"
+#~ msgstr "Your program will not be saved."
+
+#~ msgid "read_code_label"
+#~ msgstr "القراءة بصوت عال"
+
+#~ msgid "regress_button"
+#~ msgstr "الرجوع الى المستوى {level}"
+
+#~ msgid "repair_program_logo_alt"
+#~ msgstr "Repair program icon"
+
+#~ msgid "sleeping"
+#~ msgstr "Sleeping..."
+
+#~ msgid "variables"
+#~ msgstr "المتغيرات"
 

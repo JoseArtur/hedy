@@ -112,10 +112,6 @@ msgstr "Med izvajanjem vašega programa je ukaz `{command}` prejel vrednost `{va
 msgid "Runtime Values Error"
 msgstr "Med izvajanjem vašega programa je ukaz `{command}` prejel vrednosti `{value}` in `{value}`, ki nista dovoljeni. {tip}."
 
-#, fuzzy
-msgid "Save Microbit code "
-msgstr "Save Microbit code"
-
 msgid "Too Big"
 msgstr "Vau! Vaš program ima neverjetnih {lines_of_code} vrstic kode! Toda na tej ravni lahko obdelamo le {max_lines} vrstic. Svoj program skrajšajte in poskusite znova."
 
@@ -661,10 +657,6 @@ msgid "destroy_profile"
 msgstr "Delete profile"
 
 #, fuzzy
-msgid "developers_mode"
-msgstr "Programmer's mode"
-
-#, fuzzy
 msgid "directly_available"
 msgstr "Directly open"
 
@@ -724,10 +716,6 @@ msgstr "Od 2. stopnje naprej `{echo}` ni več potreben. Zdaj lahko odgovor ponov
 #, fuzzy
 msgid "edit_adventure"
 msgstr "Edit adventure"
-
-#, fuzzy
-msgid "edit_code_button"
-msgstr "Edit code"
 
 #, fuzzy
 msgid "email"
@@ -1202,10 +1190,6 @@ msgid "login_long"
 msgstr "Log in to your account"
 
 #, fuzzy
-msgid "login_to_save_your_work"
-msgstr "Log in to save your work"
-
-#, fuzzy
 msgid "logout"
 msgstr "Log out"
 
@@ -1381,10 +1365,6 @@ msgid "newline"
 msgstr "a new line"
 
 #, fuzzy
-msgid "next_exercise"
-msgstr "Next exercise"
-
-#, fuzzy
 msgid "next_page"
 msgstr "Next page"
 
@@ -1457,10 +1437,6 @@ msgstr "Looks like you are not in this class!"
 #, fuzzy
 msgid "not_in_class_no_handin"
 msgstr "You are not in a class, so there's no need for you to hand in anything."
-
-#, fuzzy
-msgid "not_logged_in_cantsave"
-msgstr "Your program will not be saved."
 
 #, fuzzy
 msgid "not_logged_in_handin"
@@ -1770,19 +1746,12 @@ msgid "quiz_threshold_not_reached"
 msgstr "Prag kviza za odklepanje te stopnje ni dosežen"
 
 #, fuzzy
-msgid "read_code_label"
-msgstr "Read aloud"
-
-#, fuzzy
 msgid "recent"
 msgstr "My recent programs"
 
 #, fuzzy
 msgid "recover_password"
 msgstr "Request a password reset"
-
-msgid "regress_button"
-msgstr "Pojdi nazaj na stopnjo {level}"
 
 #, fuzzy
 msgid "remove"
@@ -1803,10 +1772,6 @@ msgstr "Are you sure you want to remove the student from the class?"
 #, fuzzy
 msgid "remove_user_prompt"
 msgstr "Confirm removing this user from the class."
-
-#, fuzzy
-msgid "repair_program_logo_alt"
-msgstr "Repair program icon"
 
 msgid "repeat_dep"
 msgstr "Od 8. stopnje naprej je treba `{repeat}` uporabljati z zamikom. Primere si lahko ogledate na zavihku `{repeat}` v 8. stopnji."
@@ -1996,10 +1961,6 @@ msgstr "a single quote"
 #, fuzzy
 msgid "slash"
 msgstr "a slash"
-
-#, fuzzy
-msgid "sleeping"
-msgstr "Sleeping..."
 
 #, fuzzy
 msgid "slides"
@@ -2467,9 +2428,6 @@ msgstr "One or more usernames is already in use."
 msgid "value"
 msgstr "Value"
 
-msgid "variables"
-msgstr "Spremenljivke"
-
 #, fuzzy
 msgid "view_adventures"
 msgstr "View adventures"
@@ -2539,4 +2497,37 @@ msgstr "Your program"
 
 #~ msgid "multiple_levels_warning"
 #~ msgstr "Opazili smo, da ste izbrali več stopenj in v svojo dogodivščino vključili delčke kode, kar lahko povzroči težave s označevalnikom skladnje (sintakse) in samodejnim prevajanjem ključnih besed"
+
+#~ msgid "Save Microbit code "
+#~ msgstr "Save Microbit code"
+
+#~ msgid "developers_mode"
+#~ msgstr "Programmer's mode"
+
+#~ msgid "edit_code_button"
+#~ msgstr "Edit code"
+
+#~ msgid "login_to_save_your_work"
+#~ msgstr "Log in to save your work"
+
+#~ msgid "next_exercise"
+#~ msgstr "Next exercise"
+
+#~ msgid "not_logged_in_cantsave"
+#~ msgstr "Your program will not be saved."
+
+#~ msgid "read_code_label"
+#~ msgstr "Read aloud"
+
+#~ msgid "regress_button"
+#~ msgstr "Pojdi nazaj na stopnjo {level}"
+
+#~ msgid "repair_program_logo_alt"
+#~ msgstr "Repair program icon"
+
+#~ msgid "sleeping"
+#~ msgstr "Sleeping..."
+
+#~ msgid "variables"
+#~ msgstr "Spremenljivke"
 

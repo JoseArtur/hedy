@@ -474,7 +474,6 @@ export async function runit(level: number, lang: string, raw: boolean, disabled_
   // Copy 'currentTab' into a variable, so that our event handlers don't mess up
   // if the user changes tabs while we're waiting for a response
   const adventureName = currentTab;
-
   if (askPromptOpen) {
     // If there is no message -> don't show a prompt
     if (disabled_prompt) {
@@ -1401,7 +1400,50 @@ export function showVariableView() {
   }
   else {
     variables.hide();
+    const output = $('#output');
+    output.show();
   }
+  const variablesExpand = $('#variables-expand');
+    if (variablesExpand.is(":hidden")) {
+    variablesExpand.show();
+    $("#variables").trigger("click")
+  }
+  else {
+    variablesExpand.hide();
+  }
+}
+
+export function openVariableView() {
+// When blue label button is clicked, the view will appear or hide
+  const openVariables = $('#open-variables');
+  openVariables.hide()
+  const closeVariables = $('#close-variables');
+  if(closeVariables.hasClass('hidden')){
+      console.log("test has hidden")
+      closeVariables.removeClass('hidden')
+  }
+
+    const variables = $('#variables');
+  variables.removeClass('h-24')
+    const output = $('#output');
+  output.hide()
+}
+
+export function closeVariableView() {
+
+// When blue label button is clicked, the view will appear or hide
+  const openVariables = $('#open-variables');
+  openVariables.show()
+  const closeVariables = $('#close-variables');
+  if(!closeVariables.hasClass('hidden')){
+      closeVariables.addClass('hidden')
+      console.log("test close hidden")
+  }
+
+    const variables = $('#variables');
+  variables.addClass('h-24')
+    const output = $('#output');
+  output.show()
 }
 
 export async function store_parsons_attempt(order: Array<string>, correct: boolean) {
